@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é um aplicativo mobile que apresenta um catálogo animado dos jogadores do São Paulo Futebol Clube. Cada card exibe informações e imagens dos atletas, com visual inspirado nas cores do clube (vermelho, branco e preto) e transições suaves para uma experiência moderna e envolvente. O rodapé traz o escudo do São Paulo e a assinatura do autor.
+Este projeto é um aplicativo mobile que apresenta um catálogo animado dos jogadores do São Paulo Futebol Clube. Cada card exibe informações e imagens dos atletas, com visual inspirado nas cores do clube (vermelho, branco e preto).
 
 ## O que é o projeto?
 
